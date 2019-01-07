@@ -1,0 +1,166 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         128
+	Longest value:         7 characters
+	Most common values:    R000593 (5x)
+	                       None (5x)
+	                       C001103 (4x)
+	                       D000399 (4x)
+	                       B001260 (3x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         129
+	Longest value:         32 characters
+	Most common values:    HON. DENNIS A. ROSS (5x)
+	                       HON. EARL L. "BUDDY" CARTER (4x)
+	                       HON. LLOYD DOGGETT (4x)
+	                       HON. VERN G. BUCHANAN (3x)
+	                       HON. JOHN R. CARTER (3x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (183x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (180x)
+	                       OFFICIAL MAIL (3x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         12 characters
+	Most common values:    FRANKED MAIL (183x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         9
+	Smallest value:        2017-01-23
+	Largest value:         2017-03-29
+	Most common values:    2017-01-31 (41x)
+	                       2017-02-27 (38x)
+	                       2017-02-06 (31x)
+	                       2017-03-29 (25x)
+	                       2017-03-28 (25x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (183x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         15
+	Longest value:         8 characters
+	Most common values:    901568 (41x)
+	                       901456 (31x)
+	                       912407 (25x)
+	                       912278 (24x)
+	                       906822 (21x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         28 characters
+	Most common values:    UNITED STATES POSTAL SERVICE (180x)
+	                       FRANKING SENSE LLC (3x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        2016-06-01
+	Largest value:         2017-02-01
+	Most common values:    2016-12-01 (87x)
+	                       2017-02-01 (51x)
+	                       2017-01-03 (42x)
+	                       2016-06-01 (1x)
+	                       2017-01-25 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         7
+	Smallest value:        2016-06-30
+	Largest value:         2017-02-28
+	Most common values:    2017-01-02 (87x)
+	                       2017-02-28 (50x)
+	                       2017-01-31 (42x)
+	                       2016-06-30 (1x)
+	                       2017-02-01 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         12 characters
+	Most common values:    FRANKED MAIL (183x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         183
+	Smallest value:        1,007.11
+	Largest value:         63,146.67
+	Sum:                   1,702,100.35
+	Mean:                  9,301.095
+	Median:                3,294.2
+	StDev:                 11,470.326
+	Most common values:    2,108.54 (1x)
+	                       8,454.13 (1x)
+	                       10,796.92 (1x)
+	                       10,820.66 (1x)
+	                       25,137.57 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   369,109
+	Mean:                  2,016.989
+	Median:                2,017
+	StDev:                 0.104
+	Most common values:    2,017 (181x)
+	                       2,016 (2x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         28 characters
+	Most common values:    UNITED STATES POSTAL SERVICE (180x)
+	                       FRANKING SENSE LLC (3x)
+
+Row count: 183
